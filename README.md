@@ -3,3 +3,5 @@ First lab assignment for CSE 110 making a personal portfolio page using Markdown
 pages.
 
 Kunal's User Page
+
+My favorite language is Python.
