@@ -5,3 +5,5 @@ pages.
 Kunal's User Page
 
 My favorite language is Python.
+
+Published Github Pages: [https://aroralanuk.github.io/cse110-lab1/](https://aroralanuk.github.io/cse110-lab1/)
